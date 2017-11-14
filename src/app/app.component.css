@@ -1,0 +1,14 @@
+.main-title {
+	color: blue;
+}
+.large-title {
+	font-size: 2em;
+}
+.animate-demo {
+	width: 200px;
+	background: lightgray;
+	margin: 50px 0;
+	text-align: center;
+	padding: 20px;
+	font-size: 1.5em;
+}
